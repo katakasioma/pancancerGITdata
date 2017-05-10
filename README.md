@@ -5,4 +5,4 @@
 ```bashscript
 'for i in $(ls TCGA*); do java -jar /home/users/e.kataka/PPIXpress_1.14/PPIXpress_1.14/PPIXpress.jar  -g  -t=0.1  /home/users/e.kataka/CancerPairedData/BiogridPPIfinal_express  out_$i/$i ; done'
 ```
-⋅⋅
+⋅⋅1. Ordered sub-list
