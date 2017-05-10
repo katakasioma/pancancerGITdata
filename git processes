@@ -1,0 +1,4 @@
+mkdir pancancerGITdata
+cd pancancerGITdata
+git init
+#check git config --list
