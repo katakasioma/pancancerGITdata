@@ -8,4 +8,4 @@
 ```
 4. Patient specific perturbation profiles were merged together to obtain cancer type perturbation profiles [Supplementary-Tables-1-13](https://drive.google.com/open?id=0Bz3WS2e_jQ6xU09NN19TWTJVSmM)
 5. Strictly gained and strictly lost edges were all merged to obtain pan-cancer gain and loss profiles (Supplementary Tables 14-15)
-6. We also used protein abundance to filter the global PPIN and generate abundance based patient specific PPIN.Our approach was able to reproduce the perturbed edges across the 13 cancer types. Patient specific perturbation profiles were merged together to obtain cancer type perturbation profiles [Supplementary-Tables-1-13-EXTRA](https://drive.google.com/open?id=0Bz3WS2e_jQ6xYnJKdHBUaFVrQ3M)
+6.  (AbundancefilteredBiogridPPI) generated reproducible perturbed edges across the 13 cancer types just like those from BiogridPPIfinal_express. [Supplementary-Tables-1-13-EXTRA](https://drive.google.com/open?id=0Bz3WS2e_jQ6xYnJKdHBUaFVrQ3M)
