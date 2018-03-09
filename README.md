@@ -3,7 +3,7 @@
 
 2. Paired tumor non-tumor data can be obtained from open access TCGA data <https://gdac.broadinstitute.org/> and <https://portal.gdc.cancer.gov/legacy-archive/search/f>.
 
-3. [Xseq] (https://cran.r-project.org/web/packages/xseq/vignettes/xseq-package.pdf) package was used to detect highly-expressed genes based on mixture-of-Gauassian-distributions For each plot, the left blue curve represents the lowly-expressed genes while the grey curve represents the highly-expressed genes across patients of a cancer type for both healthy and cancer samples, respectively (Supplementary File 1).
+3. The R package Xseq (https://cran.r-project.org/web/packages/xseq/vignettes/xseq-package.pdf) was used to detect highly-expressed genes based on mixture-of-Gauassian-distributions For each plot, the left blue curve represents the lowly-expressed genes while the grey curve represents the highly-expressed genes across patients of a cancer type for both healthy and cancer samples, respectively (Supplementary File 1).
 
 4. [PPIXpress](https://sourceforge.net/projects/ppixpress/) was used to generate patient specific PPIN using bash command: 
 
