@@ -20,6 +20,8 @@
 
 9. Perturbed edges occuring in at least two cancer types were all merged to obtain pan-cancer gain and loss profiles (Supplementary Files 6 & 7).
 
+9. Proteins involved in cancer-specific and subtype-specific significant edgetic pertutbations and corresponding survival analysis plots are available in Supplementary File 8.xlxs.
+
 10. AbundancefilteredBiogridPPI generated reproducible perturbed edges across the 13 cancer types just like those from BiogridPPIfinal_express. [Supplementary-Tables-1-13-EXTRA](https://drive.google.com/open?id=0Bz3WS2e_jQ6xYnJKdHBUaFVrQ3M).
 
 11. SMGs involved in edgetic perturbations in each cancer are listed in SMGs_driving_perturbations.xlxs (Supplementary Table 16). 
