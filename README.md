@@ -24,9 +24,9 @@
 
 10. Edgetic perturbations cut across all stages in cancer; Stages I, II, III and IV, Supplementary File 9.docx.
 
-11. Significantly rewired nodes comprise of known cancer biomarkers, Supplementary File 10.tar.gz.
+11. Significantly rewired nodes comprise of known cancer biomarkers and are also involved in multiple diseases, Supplementary File 10.tar.gz.
 
 
-10. AbundancefilteredBiogridPPI generated reproducible perturbed edges across the 13 cancer types just like those from BiogridPPIfinal_express. [Supplementary-Tables-1-13-EXTRA](https://drive.google.com/open?id=0Bz3WS2e_jQ6xYnJKdHBUaFVrQ3M).
+10. AbundancefilteredBiogridPPI generated reproducible perturbed edges across the 13 cancer types just like those from BiogridPPIfinal_express. [Supplementary-Tables-1-13-EXTRA]().
 
-11. SMGs involved in edgetic perturbations in each cancer are listed in SMGs_driving_perturbations.xlxs (Supplementary Table 16). 
+11. Proteins involved in pan-cancer edgetic perturbations are known cancer biomarkers and affect distinct pathways (Supplementary File 11). 
