@@ -27,6 +27,6 @@
 11. Significantly rewired nodes comprise of known cancer biomarkers and are also involved in multiple diseases, Supplementary File 10.tar.gz.
 
 
-10. AbundancefilteredBiogridPPI generated reproducible perturbed edges across the 13 cancer types just like those from BiogridPPIfinal_express. [Supplementary-Tables-1-13-EXTRA]().
+10. AbundancefilteredBiogridPPI generated reproducible perturbed edges across the 13 cancer types just like those from BiogridPPIfinal_express. [Supplementary Tables1-13_EXTRA.xlxs.tar.gz](https://drive.google.com/open?id=1AvUBF5WHf-ackau_gwTa7O1WEGjPodsP).
 
-11. Proteins involved in pan-cancer edgetic perturbations are known cancer biomarkers and affect distinct pathways (Supplementary File 11). 
+11. Proteins involved in pan-cancer edgetic perturbations are known cancer biomarkers and affect distinct pathways, Supplementary File 11.docx. 
