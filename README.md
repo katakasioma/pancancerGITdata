@@ -12,21 +12,20 @@
 ```
 5. Patient specific perturbation profiles were merged together to obtain cancer type perturbation profiles [Supplementary-Tables-1-13](https://drive.google.com/open?id=0Bz3WS2e_jQ6xU09NN19TWTJVSmM).
 
-6. All overrepresented Biological Processes for the proteins involved in cancer-specific perturbations [supplementary File 2](https://drive.google.com/open?id=1WYrNaVupHU9Vp6wkgNZZBe3b4mrvemFi).
+6. AbundancefilteredBiogridPPI generated reproducible perturbed edges across the 13 cancer types just like those from BiogridPPIfinal_express. [Supplementary Tables1-13_EXTRA.xlxs.tar.gz](https://drive.google.com/open?id=1AvUBF5WHf-ackau_gwTa7O1WEGjPodsP).
 
-7. Cancer-specific Overrepresented Biological Processes [supplementary File 3](https://drive.google.com/open?id=1iw6CKRuch-OGKqo9SkzOkP8OIwsmSefj).
+7. All overrepresented Biological Processes for the proteins involved in cancer-specific perturbations [supplementary File 2](https://drive.google.com/open?id=1WYrNaVupHU9Vp6wkgNZZBe3b4mrvemFi).
 
-8. Uniprot identifiers for the SMGs involved in edgetic perturbations in each cancer are listed in Supplementary File 4.xlsx.
+8. Cancer-specific Overrepresented Biological Processes [supplementary File 3](https://drive.google.com/open?id=1iw6CKRuch-OGKqo9SkzOkP8OIwsmSefj).
 
-9. Perturbed edges occuring in at least two cancer types were all merged to obtain pan-cancer gain and loss profiles (Supplementary Files 6 & 7).
+9. Uniprot identifiers for the SMGs involved in edgetic perturbations in each cancer are listed in Supplementary File 4.xlsx.
 
-9. Proteins involved in cancer-specific and subtype-specific significant edgetic pertutbations and corresponding survival analysis plots are available in Supplementary File 8.tar.gz.
+10. Perturbed edges occuring in at least two cancer types were all merged to obtain pan-cancer gain and loss profiles (Supplementary Files 6 & 7).
 
-10. Edgetic perturbations cut across all stages in cancer; Stages I, II, III and IV, Supplementary File 9.docx.
+11. Proteins involved in cancer-specific and subtype-specific significant edgetic pertutbations and corresponding survival analysis plots are available in Supplementary File 8.tar.gz.
 
-11. Significantly rewired nodes comprise of known cancer biomarkers and are also involved in multiple diseases, Supplementary File 10.tar.gz.
+12. Edgetic perturbations cut across all stages in cancer; Stages I, II, III and IV, Supplementary File 9.docx.
 
+13. Significantly rewired nodes comprise of known cancer biomarkers and are also involved in multiple diseases, Supplementary File 10.tar.gz.
 
-10. AbundancefilteredBiogridPPI generated reproducible perturbed edges across the 13 cancer types just like those from BiogridPPIfinal_express. [Supplementary Tables1-13_EXTRA.xlxs.tar.gz](https://drive.google.com/open?id=1AvUBF5WHf-ackau_gwTa7O1WEGjPodsP).
-
-11. Proteins involved in pan-cancer edgetic perturbations are known cancer biomarkers and affect distinct pathways, Supplementary File 11.docx. 
+14. Proteins involved in pan-cancer edgetic perturbations are known cancer biomarkers and affect distinct pathways, Supplementary File 11.docx. 
