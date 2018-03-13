@@ -15,10 +15,11 @@
 6. All overrepresented Biological Processes for the proteins involved in cancer-specific perturbations [supplementary File 2](https://drive.google.com/open?id=1WYrNaVupHU9Vp6wkgNZZBe3b4mrvemFi).
 
 7. Cancer-specific Overrepresented Biological Processes [supplementary File 3](https://drive.google.com/open?id=1iw6CKRuch-OGKqo9SkzOkP8OIwsmSefj).
-8. Uniprot identifiers for the SMGs involved in edgetic perturbations in each cancer are listed in Supplementary File 4.xlxs.
 
-8. Perturbed edges occuring in at least two cancer types were all merged to obtain pan-cancer gain and loss profiles (Supplementary Tables 14-15).
+8. Uniprot identifiers for the SMGs involved in edgetic perturbations in each cancer are listed in Supplementary File 4.xlsx.
 
-9. AbundancefilteredBiogridPPI generated reproducible perturbed edges across the 13 cancer types just like those from BiogridPPIfinal_express. [Supplementary-Tables-1-13-EXTRA](https://drive.google.com/open?id=0Bz3WS2e_jQ6xYnJKdHBUaFVrQ3M).
+9. Perturbed edges occuring in at least two cancer types were all merged to obtain pan-cancer gain and loss profiles (Supplementary Tables 6 & 7).
 
-10. SMGs involved in edgetic perturbations in each cancer are listed in SMGs_driving_perturbations.xlxs (Supplementary Table 16). 
+10. AbundancefilteredBiogridPPI generated reproducible perturbed edges across the 13 cancer types just like those from BiogridPPIfinal_express. [Supplementary-Tables-1-13-EXTRA](https://drive.google.com/open?id=0Bz3WS2e_jQ6xYnJKdHBUaFVrQ3M).
+
+11. SMGs involved in edgetic perturbations in each cancer are listed in SMGs_driving_perturbations.xlxs (Supplementary Table 16). 
