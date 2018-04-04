@@ -16,9 +16,7 @@
 
 7. All overrepresented Biological Processes for the proteins involved in cancer-specific edgetic gains and losses (SupplementaryFile2). 
 
-8. Cancer-specific Overrepresented Biological Processes  [supplementary File 3](https://drive.google.com/open?id=1yrFy1GZBPogatqan2tsdIRVN2vBthDvV). The GeneRatio represents the number of genes from the input (querry) gene list that match the GO term / Total number of the input (querry) genes.
-The BgRatio represents the number of genes in the GO database associated with a GO term/ Total number of genes in the GO database.
-
+8. Cancer-specific Overrepresented Biological Processes (supplementary File 3). 
 
 9. Uniprot identifiers for the SMGs involved in edgetic perturbations in each cancer are listed in Supplementary File 4.xlsx.
 
