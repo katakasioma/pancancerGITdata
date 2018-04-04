@@ -14,9 +14,9 @@
 
 6. AbundancefilteredBiogridPPI generated reproducible perturbed edges across the 13 cancer types just like those from BiogridPPIfinal_express. [Supplementary Tables1-13_EXTRA.xlxs.tar.gz](https://drive.google.com/open?id=1AvUBF5WHf-ackau_gwTa7O1WEGjPodsP).
 
-7. All overrepresented Biological Processes for the proteins involved in cancer-specific edgetic gains and losses (SupplementaryFile2). 
+7. All overrepresented Biological Processes for the proteins involved in cancer-specific edgetic gains and losses (SupplementaryFile2.xlsx). 
 
-8. Cancer-specific Overrepresented Biological Processes (supplementary File 3). 
+8. Cancer-specific Overrepresented Biological Processes (supplementary File 3xlsx). 
 
 9. Uniprot identifiers for the SMGs involved in edgetic perturbations in each cancer are listed in Supplementary File 4.xlsx.
 
