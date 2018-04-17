@@ -29,3 +29,5 @@
 13. Significantly rewired nodes comprise of known cancer biomarkers and are also involved in multiple diseases, Supplementary File 9.tar.gz.
 
 14. Proteins involved in pan-cancer edgetic perturbations are known cancer biomarkers and affect distinct pathways, Supplementary File 10.docx. 
+
+15. Top Pan-cancer perturbed edges, SupplemenatryTable14.xlsx
