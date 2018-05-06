@@ -14,7 +14,7 @@
 
 6. AbundancefilteredBiogridPPI generated reproducible perturbed edges across the 13 cancer types just like those from BiogridPPIfinal_express. [Supplementary Tables1-13_EXTRA.xlxs.tar.gz](https://drive.google.com/open?id=1AvUBF5WHf-ackau_gwTa7O1WEGjPodsP).
 
-7. All overrepresented Biological Processes for the proteins involved in cancer-specific edgetic gains and losses (Supplementary File 2.xlsx). 
+7. All enriched Ontologies from topGO and REVIGO for the proteins involved in cancer-specific edgetic gains and losses (Supplementary File 2.xlsx). 
 
 8. REVIGO prunned Gene Ontologies (Supplementary Figure 1.pdf). 
 
