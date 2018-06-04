@@ -16,16 +16,16 @@
 
 7. All enriched Ontologies from topGO and REVIGO for the proteins involved in cancer-specific edgetic gains and losses (Supplementary File 2.xlsx).  
 
-8. Uniprot identifiers for the SMGs involved in edgetic perturbations in each cancer are listed in Supplementary File 3a and b NOT 4.xlsx, Supp Fig 2.
+8. Uniprot identifiers for the SMGs involved in edgetic perturbations in each cancer are listed in Supplementary File 3a and, Supplementary Figure 2.
 
-9. Perturbed edges occuring in at least two cancer types were all merged to obtain pan-cancer gain and loss profiles (Supplementary Files 4&5 NOT 5 & 6).
+9. Perturbed edges occuring in at least two cancer types were all merged to obtain pan-cancer gain and loss profiles (Supplementary Files 4 & 5).
 
-10. Proteins involved in cancer-specific and subtype-specific significant edgetic pertutbations and corresponding survival analysis plots are available in Supplementary File 6 NOT 7.tar.gz.
+10. Proteins involved in cancer-specific and subtype-specific significant edgetic pertutbations and corresponding survival analysis plots are available in Supplementary File 6.tar.gz.
 
-11. Edgetic perturbations cut across all stages in cancer; Stages I, II, III and IV, Supplementary File 7 NOT 8.docx.
+11. Edgetic perturbations cut across all stages in cancer; Stages I, II, III and IV, Supplementary File 7.docx.
 
-12. Significantly rewired nodes comprise of known cancer biomarkers and are also involved in multiple diseases, Supplementary File 8 NOT 9.tar.gz.
+12. Significantly rewired nodes comprise of known cancer biomarkers and are also involved in multiple diseases, Supplementary File 8.gz.
 
-13. Proteins involved in pan-cancer edgetic perturbations are known cancer biomarkers and affect distinct pathways, Supplementary File 9 NOT 10.docx. 
+13. Proteins involved in pan-cancer edgetic perturbations are known cancer biomarkers and affect distinct pathways, Supplementary File 9.docx. 
 
 14. Top Pan-cancer perturbed edges, SupplemenatryTable14.xlsx
