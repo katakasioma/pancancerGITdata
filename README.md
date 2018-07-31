@@ -16,7 +16,7 @@
 
 7. All enriched Ontologies from topGO and REVIGO for the proteins involved in cancer-specific edgetic gains and losses (Supplementary File 2.xlsx).  
 
-8. Uniprot identifiers for the SMGs involved in edgetic perturbations in each cancer are listed in Supplementary File 3a. Additionally, randomly generated SMGs based on degree similarity with SMGs are contained in Supplementary File 3b.
+8. Uniprot identifiers for the SMGs involved in edgetic perturbations in each cancer and the paired genes based on degree similarity are listed in Supplementary File 3. 
 
 9. Perturbed edges occuring in at least two cancer types were all merged to obtain pan-cancer gain and loss profiles (Supplementary Files 4 & 5).
 
