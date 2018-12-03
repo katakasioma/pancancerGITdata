@@ -20,7 +20,7 @@
 
 9. Perturbed edges occuring in at least two cancer types were all merged to obtain pan-cancer gain and loss profiles (Supplementary Files 4 & 5). Proteins involved in pan-cancer edgetic perturbations are known cancer biomarkers and affect distinct pathways, Supplementary File 6.
 
-10. Proteins involved in cancer-specific and subtype-specific significant edgetic pertutbations and corresponding survival analysis plots are available in Supplementary Table 7 and Supplementary Figure 2.
+10. Proteins involved in cancer-specific and subtype-specific significant edgetic pertutbations and corresponding survival analysis plots are available in Supplementary Table 7 and Supplementary Figure 3.
 
 11. Edgetic perturbations cut across all stages in cancer; Stages I, II, III and IV, Supplementary File 8.docx.
 
