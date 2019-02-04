@@ -10,7 +10,7 @@
 ```bashscript
 'for i in $(ls TCGA*); do java -jar /home/users/e.kataka/PPIXpress_1.19/PPIXpress_1.19/PPIXpress.jar  -m  -t=0.1  /home/users/e.kataka/CancerPairedData/BiogridPPIfinal_express  out_$i/$i ; done'
 ```
-5. Patient specific perturbation profiles were merged together to obtain cancer type perturbation profiles [Supplementary-Tables-1-13](https://drive.google.com/open?id=0Bz3WS2e_jQ6xU09NN19TWTJVSmM).
+5. Patient specific perturbation profiles were merged together to obtain cancer type perturbation profiles [Supplementary-Tables-1-13A](https://drive.google.com/file/d/1SyCRGR1cJGIgl3qqWfRNWnvXo0ry-ocp/view?usp=sharing).
 
 6. AbundancefilteredBiogridPPI generated reproducible perturbed edges across the 13 cancer types just like those from BiogridPPIfinal_express. [Supplementary Tables1-13_EXTRA.xlxs.tar.gz](https://drive.google.com/open?id=1AvUBF5WHf-ackau_gwTa7O1WEGjPodsP).
 
